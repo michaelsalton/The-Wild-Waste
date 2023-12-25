@@ -32,8 +32,7 @@ Features explained
 
   Weather effects
 
- - The game includes a couple different types o![Screenshot 2023-12-24 at 7 17 21 PM](https://github.com/michaelsalton/The-Wild-Waste/assets/58754252/9ecd40d3-1027-4457-a546-cf4f96ce9f6e)
-f dust storms as well as tumbleweeds. These effects appear randomly as the player explores the map.
+ - The game includes a couple different types of dust storms as well as tumbleweeds. These effects appear randomly as the player explores the map.
 
 	Collectible loot
 
