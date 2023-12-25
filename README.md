@@ -4,6 +4,7 @@ The Waste is an action-adventure, horror, roguelike game. The world has experien
 
 Play it yourself: https://michaelsalton.itch.io/the-wild-waste
 
+
 <img width="1500" alt="Screenshot 2023-12-24 at 7 18 51 PM" src="https://github.com/michaelsalton/The-Wild-Waste/assets/58754252/32a19dd5-c563-4788-bec4-6738349ca053">
 
 <img width="1497" alt="Screenshot 2023-12-24 at 7 19 43 PM" src="https://github.com/michaelsalton/The-Wild-Waste/assets/58754252/5ce0a4fe-355a-4610-ae55-f8b2ecba5361">
