@@ -1,6 +1,6 @@
 # The-Wild-Waste
 
-The Wild Waste is an action-adventure, horror, roguelike game. The world has experienced a solar apocalypse and the sun has become too hot to be outside during the day. You the player, must spend your night scavenging for supplies and fending off enemies. You must find shelter before the sun comes up in the morning.
+The Wild Waste is an action-adventure, horror, rogue-like game. The world has experienced a solar apocalypse and the sun has become too hot to be outside during the day. You the player, must spend your night scavenging for supplies and fending off enemies. You must find shelter before the sun comes up in the morning.
 
 <img width="1500" alt="Screenshot 2023-12-24 at 7 18 51 PM" src="https://github.com/michaelsalton/The-Wild-Waste/assets/58754252/32a19dd5-c563-4788-bec4-6738349ca053">
 
