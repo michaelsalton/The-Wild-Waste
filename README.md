@@ -12,10 +12,6 @@ The Wild Waste is an action-adventure, horror, rogue-like game. The world has ex
 
 <img width="1503" alt="Screenshot 2023-12-24 at 7 21 10 PM" src="https://github.com/michaelsalton/The-Wild-Waste/assets/58754252/8439d29e-f94c-4c15-94ad-e018a196c6b2">
 
-
-
-Play it yourself: https://michaelsalton.itch.io/the-wild-waste
-
 Features included in the game
 
 - Isometric camera and player movement
